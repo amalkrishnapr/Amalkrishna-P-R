@@ -1,0 +1,18 @@
+body {background-color:black;}
+h1 {color: white;}
+p {background-color: red;}
+h3 {color: white;}
+
+.logo {
+	background-color: blue;
+	width:300px;
+	height:300px;
+	border-radius:50%;
+}
+
+.square img {
+	width:200px;
+        height:200px;
+
+}
+
